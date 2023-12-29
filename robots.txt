@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://studylessshape.github.io/game-story/game-story/sitemap.xml
